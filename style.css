@@ -1,0 +1,13 @@
+hover {
+  padding: 15px;
+  background: green;
+  color: white;
+one;
+}
+
+.hover:hover {
+  background: darkgreen;  
+  transform: scale(0.1);   
+}
+
+
